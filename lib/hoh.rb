@@ -43,13 +43,8 @@ def naming_system
   # HoH all the way to Species!
 nestedHoh = {
   :PORTION_1 = {
-    label: "Kingdom",
-    sub_category: {
-      label: "Phylum",
-    sub_category: {
-    label: "Class"
+    
   }
-  
 }
 nestedHoh
 end

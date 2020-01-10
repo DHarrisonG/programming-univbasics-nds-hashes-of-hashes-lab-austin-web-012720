@@ -45,9 +45,9 @@ nestedHoh = {
   :PORTION_1 = {
    label: "Kingdom",
    sub_category: {
-   label: "Phylum",
-    sub_category: {
-    label: "Class"
+    label: "Phylum",
+      sub_category: {
+        label: "Class"
     }
   }
  }

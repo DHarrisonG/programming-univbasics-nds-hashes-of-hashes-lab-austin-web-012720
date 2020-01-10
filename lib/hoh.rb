@@ -55,6 +55,10 @@ nestedHoh = {
    sub_category: {
      label: "Genus",
    }
+ },
+  :PORTION_4 = {
+   label: "Species",
+   sub_category: nil
  }
 }
 nestedHoh

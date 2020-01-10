@@ -48,7 +48,7 @@ nestedHoh = {
     sub_category: {
       label: "Class"
     }
-  }
-}}
+  }}
+}
 nestedHoh
 end

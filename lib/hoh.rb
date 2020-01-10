@@ -49,6 +49,6 @@ nestedHoh = {
       label: "Class"
     }
   }
-}
+}}
 nestedHoh
 end

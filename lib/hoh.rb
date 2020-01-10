@@ -47,7 +47,7 @@ nestedHoh = {
     label: "Phylum"
     sub_category: {
       label: "Class"
-    }}
+    }
   }
 }
 nestedHoh
